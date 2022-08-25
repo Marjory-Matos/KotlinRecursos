@@ -1,7 +1,7 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
-import modelo.Autenticavel
-import modelo.FuncionarioAdmin
+import br.com.ibm.bytebank.modelo.Autenticavel
+import br.com.ibm.bytebank.modelo.FuncionarioAdmin
 
 class Gerente(
      nome: String,

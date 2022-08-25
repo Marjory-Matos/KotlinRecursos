@@ -1,4 +1,4 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
 //open permite que qualquer outra classe faca a heranca dessa classe
 abstract class Funcionario(

@@ -1,7 +1,7 @@
-import modelo.Analista
-import modelo.CalculadoraBonificacao
-import modelo.Diretor
-import modelo.Gerente
+import br.com.ibm.bytebank.modelo.Analista
+import br.com.ibm.bytebank.modelo.CalculadoraBonificacao
+import br.com.ibm.bytebank.modelo.Diretor
+import br.com.ibm.bytebank.modelo.Gerente
 
 fun testaFuncionarios() {
     val alex = Analista(

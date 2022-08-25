@@ -1,6 +1,6 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
-import modelo.Autenticavel
+import br.com.ibm.bytebank.modelo.Autenticavel
 
 class Cliente(
     val nome: String,

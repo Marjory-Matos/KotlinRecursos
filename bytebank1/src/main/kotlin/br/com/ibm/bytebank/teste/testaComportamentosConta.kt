@@ -1,5 +1,5 @@
-import modelo.ContaCorrente
-import modelo.ContaPoupanca
+import br.com.ibm.bytebank.modelo.ContaCorrente
+import br.com.ibm.bytebank.modelo.ContaPoupanca
 
 fun testaComportamentosConta() {
     //instancia da classe

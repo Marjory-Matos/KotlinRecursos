@@ -1,6 +1,6 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
-import modelo.Funcionario
+import br.com.ibm.bytebank.modelo.Funcionario
 
 class Auxiliar(
      nome: String,

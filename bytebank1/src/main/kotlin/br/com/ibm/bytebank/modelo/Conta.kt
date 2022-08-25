@@ -1,4 +1,4 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
 //temos que criar a classe no mesmo nivel de arquivo
 //esses parametros sao do construtor, pois utilizamos ele ja na classe inicial

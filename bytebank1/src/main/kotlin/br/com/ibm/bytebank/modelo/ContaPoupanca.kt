@@ -1,6 +1,6 @@
-package modelo
+package br.com.ibm.bytebank.modelo
 
-import modelo.Conta
+import br.com.ibm.bytebank.modelo.Conta
 
 class ContaPoupanca(
     titular: String,
